@@ -1,0 +1,1 @@
+{"ticker": "FB", "test_error": 0.0065, "learn_rate": 0.01, "dropout": 0.4, "epoch": 200, "train_error": 0.006, "window_size": 5}
